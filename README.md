@@ -1,6 +1,6 @@
 # 🧠 Handwritten Digit Classifier
 
-This project implements a **Multi-Layer Perceptron (MLP)** neural network using **PyTorch** to classify **handwritten digits** from the MNIST dataset. It is designed as a **college-level AI/ML project**, suitable for academic showcase and placement portfolios.
+This project implements a **Multi-Layer Perceptron (MLP)** neural network using **PyTorch** to classify **handwritten digits** from the MNIST dataset. It is designed as a ** AI/ML project**, suitable for academic showcase and placement portfolios.
 
 ---
 
